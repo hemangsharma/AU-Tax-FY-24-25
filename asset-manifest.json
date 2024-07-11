@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AU-Tax-FY-24-25/static/css/main.5de20076.css",
+    "main.js": "/AU-Tax-FY-24-25/static/js/main.e02550f1.js",
+    "static/js/453.7232b429.chunk.js": "/AU-Tax-FY-24-25/static/js/453.7232b429.chunk.js",
+    "static/media/github-logo.png": "/AU-Tax-FY-24-25/static/media/github-logo.248d71e59b0fb94eea35.png",
+    "index.html": "/AU-Tax-FY-24-25/index.html",
+    "main.5de20076.css.map": "/AU-Tax-FY-24-25/static/css/main.5de20076.css.map",
+    "main.e02550f1.js.map": "/AU-Tax-FY-24-25/static/js/main.e02550f1.js.map",
+    "453.7232b429.chunk.js.map": "/AU-Tax-FY-24-25/static/js/453.7232b429.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5de20076.css",
+    "static/js/main.e02550f1.js"
+  ]
+}
